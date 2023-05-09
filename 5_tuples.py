@@ -12,7 +12,7 @@ print(tup1[2])
 # tup1[2] = 5
 # print(tup1)
 
-#if you want to reassigne tuple then you have to convert tuple in list
+#if you want to reassign tuple then you have to convert tuple in list
 list1 = list(tup1)
 list1[2] = 5
 print(list1)

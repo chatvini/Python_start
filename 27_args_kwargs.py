@@ -23,5 +23,6 @@ kw = {"Mayank":"Head",
       "Subodh":"Monitor",
       "Amit":"Coordinator",
       "Karan":"Fitness Instructor"}
-func2(norm, *names, **kw) '''if we will not pass here args(*) or kwargs(**) but we write
+func2(norm, *names, **kw) 
+'''if we will not pass here args(*) or kwargs(**) but we write
 args(*) or kwargs(**) in the above function then still our program will run'''
